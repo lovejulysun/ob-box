@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "02f2b91b49bcb831",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e8638a6e307c162",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "950b3886c40f0d1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7797510727c57b62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d78a004347e3fdfd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bf67564d420b2602",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0a432f0d7173ecc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "22928b89b789f690",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c85f1a081801d463",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled.md"
+  ]
+}

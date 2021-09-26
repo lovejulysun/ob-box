@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "d391ef42d745069b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b759f96032a89e71",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Daily/2021-09-26_周日.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e3de70e7a04516f",
+    "type": "split",
+    "children": [
+      {
+        "id": "83fa752ac353c839",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86f73cc877ba7e88",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4fe3f1ab330e90e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 226
+  },
+  "right": {
+    "id": "88f5f5a1f242f6ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "347843dc1abf3042",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "480e5ea5c49abc03",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily/2021-09-26_周日.md"
+              }
+            }
+          },
+          {
+            "id": "4e2490056d9638a1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d3021d9761386367",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "382ee859ca075b0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Workbench.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "6c01845001de8813",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily/2021-09-26_周日.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byCreatedTime",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.9999542236328
+  },
+  "active": "b759f96032a89e71",
+  "lastOpenFiles": [
+    "Daily/2021-09-26_周日.md",
+    "Template/Work weekly.md",
+    "Untitled.md",
+    "我的笔记流.md",
+    "Template/today.md",
+    "Template/time.md",
+    "Template/Metadata.md",
+    "Template/env_temp.md",
+    "Template/Daily_temp.md",
+    "Template/test.md"
+  ]
+}

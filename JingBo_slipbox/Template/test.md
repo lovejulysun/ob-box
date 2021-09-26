@@ -1,0 +1,1 @@
+<% tp.date.weekday("YYYYMMDD", 0) %>-<% tp.date.weekday("YYYYMMDD", 4) %>
